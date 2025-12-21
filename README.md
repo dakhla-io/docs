@@ -9,7 +9,7 @@ This repository contains all documentation related to the Dakhla Final Year Proj
 **Project Code:** FYP-020/FA25
 
 **Team Members:**
-1. [Muhammad Nauman Arif](https://github.com/naumanarif) (2514-2022)
+1. [Muhammad Nauman Arif](https://github.com/naumanaarif) (2514-2022)
 2. [Ismail Dad Khan](https://github.com/IsmailDadKhan) (2927-2022)
 3. [Hamza Ali Khan](https://github.com/hamzaalikhan) (2504-2022)
 
