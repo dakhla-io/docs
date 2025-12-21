@@ -11,7 +11,7 @@ This repository contains all documentation related to the Dakhla Final Year Proj
 **Team Members:**
 1. [Muhammad Nauman Arif](https://github.com/naumanaarif) (2514-2022)
 2. [Ismail Dad Khan](https://github.com/IsmailDadKhan) (2927-2022)
-3. [Hamza Ali Khan](https://github.com/Hamza-asm) (2504-2022)
+3. [Hamza Ali Khan](https://github.com/Hamza-asm) (2508-2022)
 
 **Supervisor:** Dr. Umer Farooq
 
