@@ -9,6 +9,7 @@ The following documents are part of the project documentation:
 1. [Project Proposal](ProjectProposal.pdf)
 2. [Software Requirements Specifications (SRS)](SRS.pdf)
 3. [Software Design Specifications (SDS)](SDS.pdf)
+4. [Project Poster](Poster.pdf)
 
 ## Project Information
 
