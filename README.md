@@ -7,9 +7,12 @@ This repository contains the documentation for the Final Year Project titled **"
 The following documents are part of the project documentation:
 
 1. [Project Proposal](ProjectProposal.pdf)
-2. [Software Requirements Specifications (SRS)](SRS.pdf)
-3. [Software Design Specifications (SDS)](SDS.pdf)
-4. [Project Poster](Poster.pdf)
+2. [Project Timeline (Gantt Charts)](GanttCharts/)
+   - [FYP-I Gantt Chart](GanttCharts/FYP-I.png)
+   - [FYP-II Gantt Chart](GanttCharts/FYP-II.png)
+3. [Software Requirements Specifications (SRS)](SRS.pdf)
+4. [Software Design Specifications (SDS)](SDS.pdf)
+5. [Project Poster](Poster.pdf)
 
 ## Project Information
 
