@@ -24,4 +24,4 @@ The following documents are part of the project documentation:
 | Supervisor | Dr. Umer Farooq |
 | Department | Department of Computing, FEST |
 | Institution | Hamdard University |
-| Project Status | FYP-I Mid Year Evaluation |
+| Project Status | FYP-I Completed ✅ |
